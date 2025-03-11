@@ -78,7 +78,7 @@ GET /data/{entity_type}
  
 - Fetches processed data based on entity type (`product`, `user`, or `transaction`). 
 - Hosted API Endpoint: 
-  [https://opinium-ai-backend-engineer-intern.onrender.com/data/{entity\_type}](https://opinium-ai-backend-engineer-intern.onrender.com/data/{entity_type}) 
+  [https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity\_type](https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity_type}) 
  
 #### Example Response for 
 ```http 
@@ -162,7 +162,7 @@ GET /insights/users
  
 - Returns total spending per user. 
 - Hosted API Endpoint: 
-  [https://opinium-ai-backend-engineer-intern.onrender.com/insights/users](https://opinium-ai-backend-engineer-intern.onrender.com/insights/users) 
+  [https://e-commerce-data-pipeline-insights-api.onrender.com/insights/users](https://e-commerce-data-pipeline-insights-api.onrender.com/insights/users) 
  
 ### **3️⃣ Product Popularity Insights** 
  
@@ -172,7 +172,7 @@ GET /insights/products
  
 - Identifies the most popular product categories. 
 - Hosted API Endpoint: 
-  [https://opinium-ai-backend-engineer-intern.onrender.com/insights/products](https://opinium-ai-backend-engineer-intern.onrender.com/insights/products) 
+  [https://e-commerce-data-pipeline-insights-api.onrender.com/insights/products](https://e-commerce-data-pipeline-insights-api.onrender.com/insights/products) 
  
 ### **4️⃣ Test the Endpoints Using Swagger UI** 
  
@@ -186,6 +186,7 @@ Alternatively, you can use Redoc:
 - Open `http://127.0.0.1:8000/redoc` 
  
 #### Swagger UI Preview
+Live Deployment Swagger Link: [https://e-commerce-data-pipeline-insights-api.onrender.com/docs](https://e-commerce-data-pipeline-insights-api.onrender.com/docs)
 ![Swagger UI](app/Public/Swagger.png)
  
 ## 🚀 Project Setup Instructions 
