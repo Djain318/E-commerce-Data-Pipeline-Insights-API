@@ -78,7 +78,7 @@ GET /data/{entity_type}
  
 - Fetches processed data based on entity type (`product`, `user`, or `transaction`). 
 - Hosted API Endpoint: 
-  [https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity\_type](https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity_type}) 
+  [https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity\_type}](https://e-commerce-data-pipeline-insights-api.onrender.com/data/{entity_type}) 
  
 #### Example Response for 
 ```http 
