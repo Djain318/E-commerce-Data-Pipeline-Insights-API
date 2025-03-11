@@ -2,7 +2,7 @@
  
 ## 🚀 Deployment 
  
-**Live API Base URL:** [https://opinium-ai-backend-engineer-intern.onrender.com/](https://opinium-ai-backend-engineer-intern.onrender.com/) 
+**Live API Base URL:** [https://e-commerce-data-pipeline-insights-api.onrender.com/docs](https://e-commerce-data-pipeline-insights-api.onrender.com/docs) 
  
 ## 🚀 Overview 
  
